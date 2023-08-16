@@ -2,6 +2,8 @@
 
 </script>
 
-<template></template>
+<template>
+    <div>aa</div>
+</template>
 
 <style scoped></style>
